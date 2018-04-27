@@ -1,7 +1,7 @@
 {
   "name": "yeoman-prompthelper",
   "version": "1.0.0",
-  "description": "Helper for single question prompts to return the typed answer instead of the answers object. Assignment to generator property. Automatic namespacing of question names.  Unsafe question names for when storing by file paths",
+  "description": "Typescript Helper for single question prompts to return the typed answer instead of the answers object. Assignment to generator property. Automatic namespacing of question names.  Unsafe question names for when storing by file paths",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
